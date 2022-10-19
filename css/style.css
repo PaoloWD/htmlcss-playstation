@@ -21,6 +21,12 @@ section {
   background-position-x: center;
 }
 
+.bg-6-section {
+  background-image: url(../img/it-takes-two-hero-banner-desktop.jpg);
+  background-size: cover;
+  background-position-x: center;
+}
+
 .opacity-items {
   opacity: 0.5;
 }
