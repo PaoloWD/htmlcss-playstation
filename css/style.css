@@ -9,6 +9,7 @@ ul {
 
 header ul {
   margin: 0;
+  padding: 0;
 }
 
 .bg-section-color {
@@ -119,7 +120,7 @@ header ul li:hover .sub-menu {
 
 header .sub-menu ul {
   position: relative;
-  right: 50px;
+  right: 40px;
 }
 
 header ul li:hover .sub-menu ul li {
