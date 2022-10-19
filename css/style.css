@@ -50,6 +50,16 @@ footer a {
   width: 60%;
 }
 
+.img-100-px {
+  width: 100px;
+}
+
+.img-25-25 {
+  width: 25px;
+  height: 25px;
+  margin-right: 1rem;
+}
+
 .img-h-350 {
   height: 350px;
 }
