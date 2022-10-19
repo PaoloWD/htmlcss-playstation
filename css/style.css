@@ -1,9 +1,26 @@
 :root {
   --btn-bg-color-orange: #ce3c10;
+  --section-new-arrive-color: #383836;
 }
 
 ul {
   list-style-type: none;
+}
+
+.bg-section-color {
+  background-color: var(--section-new-arrive-color);
+}
+
+.bg-secondary {
+  background: #383836;
+}
+
+.bg-now {
+  background-color: #161c3b;
+}
+
+.bg-footer {
+  background-color: #00449b;
 }
 
 .btn-warning {
