@@ -20,3 +20,13 @@ section {
   background-size: cover;
   background-position-x: center;
 }
+
+.opacity-items {
+  opacity: 0.5;
+}
+
+.opacity-items:hover {
+  opacity: 1;
+  cursor: pointer;
+  border-bottom: 2px solid lightblue;
+}
