@@ -11,6 +11,10 @@ ul {
   background-color: var(--section-new-arrive-color);
 }
 
+.margin-main {
+  margin-top: 8rem;
+}
+
 .bg-secondary {
   background: #383836;
 }
