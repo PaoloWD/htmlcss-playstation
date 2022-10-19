@@ -2,6 +2,14 @@ ul {
   list-style-type: none;
 }
 
+p {
+  padding: 1rem 0;
+}
+
+h2 {
+  padding: 1rem 0;
+}
+
 section {
   margin-bottom: 2rem;
 }
@@ -15,8 +23,8 @@ footer a {
   width: 60%;
 }
 
-.img-h-250 {
-  height: 250px;
+.img-h-350 {
+  height: 350px;
 }
 
 .p-img-section {
